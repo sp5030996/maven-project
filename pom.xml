@@ -47,7 +47,7 @@
       </plugin>
              
        <plugin>
-                <groupId>com.example.maven-project</groupId>
+                <groupId>com.sonarsource.scanner.maven</groupId>
                 <artifactId>sonar-maven-plugin</artifactId>
                 <version>3.3.0.603</version>
       </plugin>
